@@ -22,7 +22,7 @@ Ensure you have the following installed:
 
 ### **2️⃣ Cloning the Repository**
 ```sh
-  git clone https://github.com/Killercavin/kotlin-assistant.git
+  git clone https://github.com/devcavin/kotlin-assistant.git
   cd kotlin-assistant
 ```
 
